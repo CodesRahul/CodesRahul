@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **codesrahul96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nRnZ6NoV_FmkGeeiBfOb8GAxVldhsMz_/view](https://drive.google.com/file/d/1nRnZ6NoV_FmkGeeiBfOb8GAxVldhsMz_/view)
+- 📄 Know about my experiences [https://codesrahul.netlify.app](https://codesrahul.netlify.app)
 
 - ⚡ Fun fact **I create Entertainment Apps**
 
