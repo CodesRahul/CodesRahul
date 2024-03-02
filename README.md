@@ -6,7 +6,7 @@ I'm Rahul, a passionate React developer and software engineer. I love turning id
 - 🔭 I’m currently working on a React project that aims to [brief project description].
 - 🌱 I’m currently learning advanced React patterns and exploring GraphQL.
 - 💬 Ask me about anything related to React, JavaScript, or software development in general.
-- 📫 How to reach me: [Email](mailto:codesrahul96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/codesrahul/) | [Twitter](https://twitter.com/CodesRahul_)
+- 📫 How to reach me: [Email](mailto:codesrahul96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/codesrahul/) | [Twitter](https://twitter.com/CodesRahul)
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
