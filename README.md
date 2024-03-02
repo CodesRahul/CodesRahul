@@ -10,11 +10,11 @@ I'm Rahul, a passionate React developer and software engineer. I love turning id
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
-- React.js
-- JavaScript (ES6+), TypeScript
-- HTML5, CSS3, Sass/SCSS
-- Node.js, Express.js and npm
+- React JS
 - React Native
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, SASS/SCSS
+- Node.js, Express.js and npm/npx
 - Git and GitHub
 - Firebase
 - MongoDB, SQL
