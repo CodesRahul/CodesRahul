@@ -27,8 +27,7 @@ I'm Rahul, a passionate React developer and software engineer. I love turning id
 - [Image Gallary App](https://cr-imagegallary.netlify.app/)
   Description: An application to manage your daily tasks built with React and Firebase.
 
-## GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRahul&show_icons=true&theme=radical)
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/codesrahul/)
