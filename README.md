@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul Misal 👋
+# Hi there, I'm Codes Rahul 👋
 
 ## About Me
 I'm Rahul, a passionate React developer and software engineer. I love turning ideas into reality through clean and efficient code. Currently exploring the vast world of web development and always eager to learn new technologies.
