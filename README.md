@@ -35,6 +35,6 @@ I'm Rahul, a passionate React developer and software engineer. I love turning id
 - [Portfolio](https://codesrahul.netlify.app)
 
 ## Fun Fact
-Did you know I enjoy Online Series in my free time?
+Did you know I enjoy Online Games in my free time?
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
