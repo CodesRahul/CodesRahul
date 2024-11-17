@@ -1,40 +1,40 @@
-# Hi there, I'm Codes Rahul 👋
-
-## About Me
-I'm Rahul, a passionate React developer and software engineer. I love turning ideas into reality through clean and efficient code. Currently exploring the vast world of web development and always eager to learn new technologies.
-
-- 🔭 I’m currently working on a React project that aims to [brief project description].
-- 🌱 I’m currently learning advanced React patterns and exploring GraphQL.
-- 💬 Ask me about anything related to React, JavaScript, or software development in general.
-- 📫 How to reach me: [Email](mailto:codesrahul96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/codesrahul/) | [Twitter](https://twitter.com/CodesRahul)
-- 😄 Pronouns: He/Him
-
-## Tech Stack
-- React JS
-- React Native
-- JavaScript (ES6+), TypeScript
-- HTML5, CSS3, SASS/SCSS
-- Node.js, Express.js and npm/npx
-- Git and GitHub
-- Firebase
-- MongoDB, SQL
-
-## Projects
-- [Portfolio Website](https://codesrahul.netlify.app)
-  Description: My personal portfolio website showcasing my projects and skills.
-- [React VideoX App](https://videox.netlify.app/)
-  Description: A simple React Videos galary application with search functionality.
-- [Image Gallary App](https://cr-imagegallary.netlify.app/)
-  Description: An application to manage your daily tasks built with React and Firebase.
-
-
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/codesrahul/)
-- [Twitter](https://twitter.com/CodesRahul_)
-- [Portfolio](https://codesrahul.netlify.app)
-
-## Fun Fact
-Did you know I enjoy Online Games in my free time?
-
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
+<div align='center'> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" /> </div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Misal!;" />
+</h1>
+<h3 align="center">A passionate software developer from Pune,India </h3>
+<br/>
+<div align="center">
+ </div>
+<div align="center"> 
+  <a href="mailto:codesrahul96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/codesrahul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<a href="https://twitter.com/codesrahul" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+  <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+ <br><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center" >
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,tailwind,firebase,css,redux,git,bootstrap,babel,jest" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=webpack,figma,vercel,nodejs,python,typescript,c,nextjs,mysql" /><br>
+</div>
+<br/>
+<br><br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VKoder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=VKoder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
+<br/><br/>
+<hr/>
